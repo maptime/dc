@@ -1,0 +1,9 @@
+baseurl: /starter
+permalink: pretty
+markdown: kramdown
+paginate: 5
+repo: starter
+maptime:
+  chapter: Meetup name
+  twitter: YourName
+  #disqus: YOUR DISQUS USERNAME
