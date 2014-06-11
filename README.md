@@ -14,6 +14,7 @@ Starter is a simple Jekyll theme for MapTime meetups. Hosting your own meetup? S
 | markdown | No | Determines which markdown engine is used | Generally, you don't need to touch this field for your own needs. |
 | paginate | Yes | Number of posts on the front page | Starter supports pagintaion. Control the number of posts on a given page by changing this value |
 | repo | Yes | Name of the repo on GitHub | As an example, the name of the starter repo is `starter` |
+| github_org | Yes | Name of the organization or username on GitHub | Most of the time this will be 'maptime' |
 | maptime: chapter | Yes | Name of your MapTime meetup | |
 | maptime: twitter | No | Your MapTime Twitter username | |
 | maptime: disqus | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](disqus.com). Create a new Disqus account for a site and fill this field with the account name. |
