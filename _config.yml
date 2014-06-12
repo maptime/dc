@@ -3,6 +3,7 @@ permalink: pretty
 markdown: kramdown
 paginate: 5
 repo: starter
+github_org: maptime
 maptime:
   chapter: Meetup name
   twitter: YourName
