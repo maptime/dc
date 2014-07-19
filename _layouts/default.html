@@ -100,7 +100,7 @@
   var rsvp = document.getElementById('rsvpdate');
   var date,formatted,link;
   '{% for item in site.categories.event limit:1 %}'
-    date = '{{item.date}}';
+    date = '{{item.date | date:"%Y,%-m,%-d"}}';
     formatted = '{{item.date | date:"%A, %b %d %Y"}}';
     link = '{{item.rsvp}}';
   '{% endfor %}'
