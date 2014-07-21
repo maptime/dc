@@ -17,7 +17,7 @@ Welcome to the repo for the DC chapter of #Maptime!
 
 The primary way you can contribute to this repo is via the Issues section with:
 
-1. Suggestions for future Maptime events
+1. Suggestions for future Maptime events, including offers for you to present
 2. Comments or questions about a specific event that you attended
 3. General comments about Maptime DC structure, venues, etc
 
