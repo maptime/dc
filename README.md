@@ -11,8 +11,7 @@ Welcome to the repo for the DC chapter of #Maptime!
 - Please consider joining the [Meetup page](http://www.meetup.com/Maptime-DC/) to keep informed on upcoming events
 
 ## Resources
-- See the Resources folder for presentation materials and post-event recaps
-
+- Looking for information or material from a past event? Start **[here](https://github.com/maptime/dc/blob/master/Events.md)**
 
 ## Contributing
 
