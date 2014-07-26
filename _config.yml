@@ -2,7 +2,7 @@ baseurl: /dc
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: dc
 github_org: maptime
 maptime:
   chapter: Maptime DC
