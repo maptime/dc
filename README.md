@@ -60,6 +60,6 @@ Have you used this starter to create your own meetup site? Let us know and we ca
 
 - [MaptimeTO](https://maptime.github.io/toronto/)
 
-## Licence
+## License
 
 BSD
