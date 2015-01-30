@@ -2,6 +2,7 @@
 layout: event
 category: event
 title: February Maptime: Missing Maps
+date: 2015-02-17 17:30:00 -0500
 rsvp: http://www.eventbrite.com/e/mardi-gras-missing-maps-mapathon-washington-dc-tickets-15505673888
 ---
 
