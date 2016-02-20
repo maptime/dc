@@ -1,4 +1,5 @@
 baseurl: /dc
+future: true
 permalink: pretty
 markdown: kramdown
 paginate: 5
