@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1332px" height="1360px" viewBox="-19.5 416.5 1332 1360" enable-background="new -19.5 416.5 1332 1360"
+	 xml:space="preserve">
+<g id="feature_x5F_branch_x5F_workflow_x5F_7">
+	<path fill="none" stroke="#404040" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M624.5,1093.46h52.863 M426.226,988.5h472.45 M478.963,1040.98c0-28.929-23.552-52.48-52.48-52.48h-45.568 M478.963,1040.98
+		c0,28.928,23.553,52.479,52.48,52.479h39.297 M822.899,1040.98c0-28.929,23.553-52.48,52.48-52.48h77.056 M822.899,1040.98
+		c0,28.928-23.552,52.479-52.479,52.479h-39.296"/>
+	
+		<circle fill="#FFFFFF" stroke="#404040" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="354.034" cy="988.5" r="26.88"/>
+	<circle fill="#B18BE8" stroke="#404040" stroke-width="4" stroke-miterlimit="10" cx="704.244" cy="1093.46" r="26.88"/>
+	<circle fill="#B18BE8" stroke="#404040" stroke-width="4" stroke-miterlimit="10" cx="597.62" cy="1093.46" r="26.88"/>
+	
+		<circle fill="#FFFFFF" stroke="#404040" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="597.62" cy="988.5" r="26.88"/>
+	<circle fill="#B18BE8" stroke="#404040" stroke-width="4" stroke-miterlimit="10" cx="951.155" cy="988.5" r="26.88"/>
+</g>
+<text transform="matrix(1 0 0 1 468.3281 913.5391)" font-family="'Quicksand-Regular'" font-size="57.866">Master Branch</text>
+<g>
+	<text transform="matrix(1 0 0 1 454.6719 1190.5391)" font-family="'Quicksand-Regular'" font-size="57.866">Feature Branch</text>
+</g>
+</svg>

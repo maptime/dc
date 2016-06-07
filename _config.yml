@@ -1,0 +1,11 @@
+baseurl: /dc
+future: true
+permalink: pretty
+markdown: kramdown
+paginate: 5
+repo: dc
+github_org: maptime
+maptime:
+  chapter: MaptimeDC
+  twitter: MaptimeDC
+  disqus: maptimeDC
