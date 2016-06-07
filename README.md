@@ -3,6 +3,8 @@
 
 # #Maptime DC!
 
+[![Join the chat at https://gitter.im/maptime/dc](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/maptime/dc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to the repo for the DC chapter of #Maptime!
 
 *What's Maptime? Check out [this description](http://www.maptime.io/about/)*
